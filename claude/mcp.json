@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "AbletonMCP": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": ["mcp-server-ableton-live@1.8.1"],
+      "env": {}
+    }
+  }
+}
